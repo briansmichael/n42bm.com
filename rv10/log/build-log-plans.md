@@ -3,6 +3,15 @@
 <div style="position: relative;">
   <img src="KitSummary.png" alt="Kit Summary">
   <div class="imgmap_css_container" id="imgmap202552394737">
+    <a style="position: absolute; top: 19.697%; left: 82.051%; width: 10.878%; height: 1.632%;"  alt="Verticle Stabilizer" title="Verticle Stabilizer" href="section6.html" target="_self" ><em>Verticle Stabilizer</em></a>
+  </div>
+</div>
+
+<hr/>
+
+<div style="position: relative;">
+  <img src="KitSummary.png" alt="Kit Summary">
+  <div class="imgmap_css_container" id="imgmap202552394737">
     <a style="position: absolute; top: 338px; left: 2112px; width: 280px; height: 28px;"  alt="Verticle Stabilizer" title="Verticle Stabilizer" href="section6.html" target="_self" ><em>Verticle Stabilizer</em></a>
     <a style="position: absolute; top: 392px; left: 2114px; width: 276px; height: 26px;"  alt="Rudder" title="Rudder" href="section7.html" target="_self" ><em>Rudder</em></a>
     <a style="position: absolute; top: 442px; left: 2114px; width: 276px; height: 30px;"  alt="Horizontal Stabilizer" title="Horizontal Stabilizer" href="section8.html" target="_self" ><em>Horizontal Stabilizer</em></a>
