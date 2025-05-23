@@ -1,6 +1,9 @@
-# Brian Michael's RV-10 - N42BM
+# Brian Michael's RV-10 - N42BM (reserved)
 
-## Build Log - Plans View
+This site is dedicated to documenting the build progress on my (extremely) slow build RV-10 aircraft.  As anyone who 
+knows me already knows...  I'm planning on finishing construction on Thursday.  (I just don't know which Thursday ;) )
+
+## Build Log
 Click on the plans section in the image below to go to the build log entries for that section.
 
 <div style="position: relative;">
