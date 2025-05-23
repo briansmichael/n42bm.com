@@ -4,7 +4,7 @@
 Click on the plans section in the image below to go to the build log entries for that section.
 
 <div style="position: relative;">
-  <img src="KitSummary.png" alt="Kit Summary">
+  <img src="rv10/log/KitSummary.png" alt="Kit Summary">
   <div class="imgmap_css_container" id="imgmap202552394737">
     <a style="position: absolute; top: 19.697%; left: 82.051%; width: 10.878%; height: 1.632%;" href="rv10/log/section6.html" target="_self" ></a>
     <a style="position: absolute; top: 22.844%; left: 82.129%; width: 16.084%; height: 1.01%;" href="rv10/log/section7.html" target="_self" ></a>
