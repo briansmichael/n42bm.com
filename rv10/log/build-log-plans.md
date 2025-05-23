@@ -3,7 +3,8 @@
 <div style="position: relative;">
   <img src="KitSummary.png" alt="Kit Summary">
   <div class="imgmap_css_container" id="imgmap202552394737">
-    <a style="position: absolute; top: 19.697%; left: 82.051%; width: 10.878%; height: 1.632%;"  alt="Verticle Stabilizer" title="Verticle Stabilizer" href="section6.html" target="_self" ><em>Verticle Stabilizer</em></a>
+    <a style="position: absolute; top: 19.697%; left: 82.051%; width: 10.878%; height: 1.632%;" href="section6.html" target="_self" ></a>
+    <a style="position: absolute; top: 22.844%; left: 82.129%; width: 16.084%; height: 1.01%;" href="section7.html" target="_self" ></a>
   </div>
 </div>
 
@@ -12,8 +13,6 @@
 <div style="position: relative;">
   <img src="KitSummary.png" alt="Kit Summary">
   <div class="imgmap_css_container" id="imgmap202552394737">
-    <a style="position: absolute; top: 338px; left: 2112px; width: 280px; height: 28px;"  alt="Verticle Stabilizer" title="Verticle Stabilizer" href="section6.html" target="_self" ><em>Verticle Stabilizer</em></a>
-    <a style="position: absolute; top: 392px; left: 2114px; width: 276px; height: 26px;"  alt="Rudder" title="Rudder" href="section7.html" target="_self" ><em>Rudder</em></a>
     <a style="position: absolute; top: 442px; left: 2114px; width: 276px; height: 30px;"  alt="Horizontal Stabilizer" title="Horizontal Stabilizer" href="section8.html" target="_self" ><em>Horizontal Stabilizer</em></a>
     <a style="position: absolute; top: 496px; left: 2112px; width: 280px; height: 28px;"  alt="Elevator" title="Elevator" href="section9.html" target="_self" ><em>Elevator</em></a>
     <a style="position: absolute; top: 420px; left: 1782px; width: 276px; height: 26px;"  alt="Emp Attachment" title="Emp Attachment" href="section11.html" target="_self" ><em>Emp Attachment</em></a>
@@ -31,7 +30,7 @@
     <a style="position: absolute; top: 674px; left: 1258px; width: 282px; height: 30px;"  alt="Rear Seat Backs" title="Rear Seat Backs" href="section42.html" target="_self" ><em>Rear Seat Backs</em></a>
     <a style="position: absolute; top: 262px; left: 932px; width: 278px; height: 32px;"  alt="Firewall" title="Firewall" href="section27.html" target="_self" ><em>Firewall</em></a>
     <a style="position: absolute; top: 332px; left: 930px; width: 280px; height: 26px;"  alt="Fuse Side Skins" title="Fuse Side Skins" href="section29.html" target="_self" ><em>Fuse Side Skins</em></a>
-    <a style="position: absolute; top: 372px; left: 932px; width: 276px; height: 48px;"  alt="Uppser Forward Fuselage Assembly" title="Uppser Forward Fuselage Assembly" href="section31.html" target="_self" ><em>Uppser Forward Fuselage Assembly</em></a>
+    <a style="position: absolute; top: 372px; left: 932px; width: 276px; height: 48px;"  alt="Upper Forward Fuselage Assembly" title="Upper Forward Fuselage Assembly" href="section31.html" target="_self" ><em>Upper Forward Fuselage Assembly</em></a>
     <a style="position: absolute; top: 440px; left: 930px; width: 280px; height: 26px;"  alt="Baggage Area" title="Baggage Area" href="section33.html" target="_self" ><em>Baggage Area</em></a>
     <a style="position: absolute; top: 480px; left: 928px; width: 282px; height: 50px;"  alt="Access Covers and Floor Panels" title="Access Covers and Floor Panels" href="section35.html" target="_self" ><em>Access Covers and Floor Panels</em></a> 
     <a style="position: absolute; top: 544px; left: 928px; width: 282px; height: 30px;"  alt="Fuel System" title="Fuel System" href="section37.html" target="_self" ><em>Fuel System</em></a>
