@@ -1,10 +1,6 @@
 # N42BM Build Log
 
-<script src="imageMapResizer.min.js"></script>
-<script>
-  imageMapResize();
-</script>
 <p style="position: relative;">
   <img src="KitSummary.png">
-  <a style="position: absolute; left: 2112px; top: 338px; width: 280px; height: 28px" href="section6.html"></a>
+  <a style="position: absolute; top: 338px; left: 2112px; width: 280px; height: 28px;" alt="Vertical Stabilizer" title="Vertical Stabilizer" href="section6.html" target="_self" ><em>Vertical Stabilizer</em></a>
 </p>
