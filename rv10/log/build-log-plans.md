@@ -5,65 +5,56 @@
   <div class="imgmap_css_container" id="imgmap202552394737">
     <a style="position: absolute; top: 19.697%; left: 82.051%; width: 10.878%; height: 1.632%;" href="section6.html" target="_self" ></a>
     <a style="position: absolute; top: 22.844%; left: 82.129%; width: 16.084%; height: 1.01%;" href="section7.html" target="_self" ></a>
-  </div>
-</div>
-
-<hr/>
-
-<div style="position: relative;">
-  <img src="KitSummary.png" alt="Kit Summary">
-  <div class="imgmap_css_container" id="imgmap202552394737">
-    <a style="position: absolute; top: 442px; left: 2114px; width: 276px; height: 30px;"  alt="Horizontal Stabilizer" title="Horizontal Stabilizer" href="section8.html" target="_self" ><em>Horizontal Stabilizer</em></a>
-    <a style="position: absolute; top: 496px; left: 2112px; width: 280px; height: 28px;"  alt="Elevator" title="Elevator" href="section9.html" target="_self" ><em>Elevator</em></a>
-    <a style="position: absolute; top: 420px; left: 1782px; width: 276px; height: 26px;"  alt="Emp Attachment" title="Emp Attachment" href="section11.html" target="_self" ><em>Emp Attachment</em></a>
-    <a style="position: absolute; top: 476px; left: 1784px; width: 280px; height: 22px;"  alt="Emp Fairings" title="Emp Fairings" href="section12.html" target="_self" ><em>Emp Fairings</em></a>
-    <a style="position: absolute; top: 370px; left: 1616px; width: 282px; height: 28px;"  alt="Tailcone" title="Tailcone" href="section10.html" target="_self" ><em>Tailcone</em></a>
-    <a style="position: absolute; top: 180px; left: 1096px; width: 306px; height: 32px;"  alt="Mid Fuselage Bulkheads" title="Mid Fuselage Bulkheads" href="section25.html" target="_self" ><em>Mid Fuselage Bulkheads</em></a>
-    <a style="position: absolute; top: 222px; left: 1262px; width: 280px; height: 54px;"  alt="Mid Fuse Ribs & Bottom Skins" title="Mid Fuse Ribs & Bottom Skins" href="section26.html" target="_self" ><em>Mid Fuse Ribs & Bottom Skins</em></a>
-    <a style="position: absolute; top: 290px; left: 1262px; width: 278px; height: 46px;"  alt="Fwd Fuse Ribs, BHDS, & Bottom Skin" title="Fwd Fuse Ribs, BHDS, & Bottom Skin" href="section28.html" target="_self" ><em>Fwd Fuse Ribs, BHDS, & Bottom Skin</em></a>
-    <a style="position: absolute; top: 356px; left: 1260px; width: 280px; height: 30px;"  alt="Step Installation" title="Step Installation" href="section30.html" target="_self" ><em>Step Installation</em></a>
-    <a style="position: absolute; top: 408px; left: 1262px; width: 276px; height: 30px;"  alt="Tailcone Attachment" title="Tailcone Attachment" href="section32.html" target="_self" ><em>Tailcone Attachment</em></a>
-    <a style="position: absolute; top: 462px; left: 1262px; width: 280px; height: 30px;"  alt="Baggage Door" title="Baggage Door" href="section34.html" target="_self" ><em>Baggage Door</em></a>
-    <a style="position: absolute; top: 518px; left: 1262px; width: 278px; height: 28px;"  alt="Brake Lines" title="Brake Lines" href="section36.html" target="_self" ><em>Brake Lines</em></a>
-    <a style="position: absolute; top: 560px; left: 1260px; width: 280px; height: 48px;"  alt="Rudder Pedals & Brake System" title="Rudder Pedals & Brake System" href="section38.html" target="_self" ><em>Rudder Pedals & Brake System</em></a>
-    <a style="position: absolute; top: 624px; left: 1260px; width: 282px; height: 28px;"  alt="Flap System" title="Flap System" href="section40.html" target="_self" ><em>Flap System</em></a>
-    <a style="position: absolute; top: 674px; left: 1258px; width: 282px; height: 30px;"  alt="Rear Seat Backs" title="Rear Seat Backs" href="section42.html" target="_self" ><em>Rear Seat Backs</em></a>
-    <a style="position: absolute; top: 262px; left: 932px; width: 278px; height: 32px;"  alt="Firewall" title="Firewall" href="section27.html" target="_self" ><em>Firewall</em></a>
-    <a style="position: absolute; top: 332px; left: 930px; width: 280px; height: 26px;"  alt="Fuse Side Skins" title="Fuse Side Skins" href="section29.html" target="_self" ><em>Fuse Side Skins</em></a>
-    <a style="position: absolute; top: 372px; left: 932px; width: 276px; height: 48px;"  alt="Upper Forward Fuselage Assembly" title="Upper Forward Fuselage Assembly" href="section31.html" target="_self" ><em>Upper Forward Fuselage Assembly</em></a>
-    <a style="position: absolute; top: 440px; left: 930px; width: 280px; height: 26px;"  alt="Baggage Area" title="Baggage Area" href="section33.html" target="_self" ><em>Baggage Area</em></a>
-    <a style="position: absolute; top: 480px; left: 928px; width: 282px; height: 50px;"  alt="Access Covers and Floor Panels" title="Access Covers and Floor Panels" href="section35.html" target="_self" ><em>Access Covers and Floor Panels</em></a> 
-    <a style="position: absolute; top: 544px; left: 928px; width: 282px; height: 30px;"  alt="Fuel System" title="Fuel System" href="section37.html" target="_self" ><em>Fuel System</em></a>
-    <a style="position: absolute; top: 598px; left: 928px; width: 282px; height: 28px;"  alt="Control System" title="Control System" href="section39.html" target="_self" ><em>Control System</em></a>
-    <a style="position: absolute; top: 640px; left: 930px; width: 276px; height: 50px;"  alt="Upper Forward Fuselage Installation" title="Upper Forward Fuselage Installation" href="section41.html" target="_self" ><em>Upper Forward Fuselage Installation</em></a>
-    <a style="position: absolute; top: 702px; left: 926px; width: 282px; height: 30px;"  alt="Cabin Cover" title="Cabin Cover" href="section43.html" target="_self" ><em>Cabin Cover</em></a>
-    <a style="position: absolute; top: 758px; left: 926px; width: 280px; height: 26px;"  alt="Wing Attachment" title="Wing Attachment" href="section44.html" target="_self" ><em>Wing Attachment</em></a>
-    <a style="position: absolute; top: 224px; left: 408px; width: 278px; height: 36px;"  alt="Wiring Harness" title="Wiring Harness" href="sectionOP37.html" target="_self" ><em>Wiring Harness</em></a>
-    <a style="position: absolute; top: 622px; left: 404px; width: 280px; height: 28px;"  alt="Main Spar" title="Main Spar" href="section13.html" target="_self" ><em>Main Spar</em></a>
-    <a style="position: absolute; top: 698px; left: 238px; width: 280px; height: 32px;"  alt="Rear Spar" title="Rear Spar" href="section15.html" target="_self" ><em>Rear Spar</em></a>
-    <a style="position: absolute; top: 676px; left: 570px; width: 282px; height: 28px;"  alt="Wing Ribs" title="Wing Ribs" href="section14.html" target="_self" ><em>Wing Ribs</em></a>
-    <a style="position: absolute; top: 728px; left: 568px; width: 284px; height: 26px;"  alt="Top Wing Skins" title="Top Wing Skins" href="section16.html" target="_self" ><em>Top Wing Skins</em></a>
-    <a style="position: absolute; top: 754px; left: 238px; width: 278px; height: 28px;"  alt="Outbd Leading Edge" title="Outbd Leading Edge" href="section17.html" target="_self" ><em>Outbd Leading Edge</em></a>
-    <a style="position: absolute; top: 780px; left: 568px; width: 280px; height: 30px;"  alt="Fuel Tank" title="Fuel Tank" href="section18.html" target="_self" ><em>Fuel Tank</em></a>
-    <a style="position: absolute; top: 806px; left: 236px; width: 280px; height: 28px;"  alt="Stall Warning System" title="Stall Warning System" href="section19.html" target="_self" ><em>Stall Warning System</em></a>
-    <a style="position: absolute; top: 832px; left: 568px; width: 280px; height: 28px;"  alt="Bottom Wing Skins" title="Bottom Wing Skins" href="section20.html" target="_self" ><em>Bottom Wing Skins</em></a>
-    <a style="position: absolute; top: 860px; left: 234px; width: 282px; height: 26px;"  alt="Aileron" title="Aileron" href="section21.html" target="_self" ><em>Aileron</em></a>
-    <a style="position: absolute; top: 884px; left: 568px; width: 278px; height: 30px;"  alt="Flap" title="Flap" href="section22.html" target="_self" ><em>Flap</em></a>
-    <a style="position: absolute; top: 912px; left: 236px; width: 278px; height: 26px;"  alt="Aileron Actuation" title="Aileron Actuation" href="section23.html" target="_self" ><em>Aileron Actuation</em></a>
-    <a style="position: absolute; top: 938px; left: 568px; width: 282px; height: 26px;"  alt="Wing Tip" title="Wing Tip" href="section24.html" target="_self" ><em>Wing Tip</em></a>
-    <a style="position: absolute; top: 1090px; left: 398px; width: 284px; height: 28px;"  alt="Wingtip Lighting" title="Wingtip Lighting" href="sectionOP36.html" target="_self" ><em>Wingtip Lighting</em></a>
-    <a style="position: absolute; top: 924px; left: 926px; width: 280px; height: 46px;"  alt="Cabin Doors & Transparencies" title="Cabin Doors & Transparencies" href="section45.html" target="_self" ><em>Cabin Doors & Transparencies</em></a>
-    <a style="position: absolute; top: 988px; left: 924px; width: 284px; height: 28px;"  alt="Spinner & Cowling" title="Spinner & Cowling" href="section47.html" target="_self" ><em>Spinner & Cowling</em></a>
-    <a style="position: absolute; top: 1050px; left: 926px; width: 280px; height: 30px;"  alt="Seats & Seat Belts" title="Seats & Seat Belts" href="section49.html" target="_self" ><em>Seats & Seat Belts</em></a>
-    <a style="position: absolute; top: 946px; left: 1260px; width: 282px; height: 54px;"  alt="Engine Mount & Landing Gear" title="Engine Mount & Landing Gear" href="section46.html" target="_self" ><em>Engine Mount & Landing Gear</em></a>
-    <a style="position: absolute; top: 1010px; left: 1258px; width: 280px; height: 50px;"  alt="Gear Leg & Wheel Fairings" title="Gear Leg & Wheel Fairings" href="section48.html" target="_self" ><em>Gear Leg & Wheel Fairings</em></a>
-    <a style="position: absolute; top: 1076px; left: 1262px; width: 278px; height: 50px;"  alt="Cabin Heat and Ventilation" title="Cabin Heat and Ventilation" href="section50.html" target="_self" ><em>Cabin Heat and Ventilation</em></a>
-    <a style="position: absolute; top: 1258px; left: 922px; width: 286px; height: 26px;"  alt="Cowl Baffle" title="Cowl Baffle" href="sectionFF2.html" target="_self" ><em>Cowl Baffle</em></a>
-    <a style="position: absolute; top: 1312px; left: 922px; width: 282px; height: 28px;"  alt="Fuel System" title="Fuel System" href="sectionFF4.html" target="_self" ><em>Fuel System</em></a>
-    <a style="position: absolute; top: 1364px; left: 922px; width: 284px; height: 30px;"  alt="Exhaust System" title="Exhaust System" href="sectionFF6.html" target="_self" ><em>Exhaust System</em></a>
-    <a style="position: absolute; top: 1228px; left: 1258px; width: 280px; height: 32px;"  alt="Engine Installation" title="Engine Installation" href="sectionFF1.html" target="_self" ><em>Engine Installation</em></a>
-    <a style="position: absolute; top: 1284px; left: 1258px; width: 282px; height: 28px;"  alt="Control Cables" title="Control Cables" href="sectionFF3.html" target="_self" ><em>Control Cables</em></a>
-    <a style="position: absolute; top: 1338px; left: 1258px; width: 282px; height: 26px;"  alt="Oil System" title="Oil System" href="sectionFF5.html" target="_self" ><em>Oil System</em></a>
-    <!-- Created by Online Image Map Editor (http://www.maschek.hu/imagemap/index) -->
+    <a style="position: absolute; top: 25.758%; left: 82.129%; width: 16.084%; height: 1.166%;" href="section8.html" target="_self" ></a>
+    <a style="position: absolute; top: 28.904%; left: 82.051%; width: 16.317%; height: 1.088%;" href="section9.html" target="_self" ></a>
+    <a style="position: absolute; top: 21.562%; left: 62.782%; width: 16.434%; height: 1.088%;" href="section10.html" target="_self" ></a>
+    <a style="position: absolute; top: 24.476%; left: 69.231%; width: 16.084%; height: 1.01%;" href="section11.html" target="_self" ></a>
+    <a style="position: absolute; top: 27.739%; left: 69.308%; width: 16.317%; height: 0.855%;" href="section12.html" target="_self" ></a>
+    <a style="position: absolute; top: 36.247%; left: 15.695%; width: 16.317%; height: 1.088%;" href="section13.html" target="_self" ></a>
+    <a style="position: absolute; top: 39.394%; left: 22.145%; width: 16.434%; height: 1.088%;" href="section14.html" target="_self" ></a>
+    <a style="position: absolute; top: 40.676%; left: 9.246%; width: 16.317%; height: 1.243%;" href="section15.html" target="_self" ></a>
+    <a style="position: absolute; top: 42.424%; left: 22.067%; width: 16.55%; height: 1.01%;" href="section16.html" target="_self" ></a>
+    <a style="position: absolute; top: 43.939%; left: 9.246%; width: 16.2%; height: 1.088%;" href="section17.html" target="_self" ></a>
+    <a style="position: absolute; top: 45.455%; left: 22.067%; width: 16.317%; height: 1.166%;" href="section18.html" target="_self" ></a>
+    <a style="position: absolute; top: 46.97%; left: 9.169%; width: 16.317%; height: 1.088%;" href="section19.html" target="_self" ></a>
+    <a style="position: absolute; top: 48.485%; left: 22.067%; width: 16.317%; height: 1.088%;" href="section20.html" target="_self" ></a>
+    <a style="position: absolute; top: 50.117%; left: 9.091%; width: 16.434%; height: 1.01%;" href="section21.html" target="_self" ></a>
+    <a style="position: absolute; top: 51.515%; left: 22.067%; width: 16.2%; height: 1.166%;" href="section22.html" target="_self" ></a>
+    <a style="position: absolute; top: 53.147%; left: 9.169%; width: 16.2%; height: 1.01%;" href="section23.html" target="_self" ></a>
+    <a style="position: absolute; top: 54.662%; left: 22.067%; width: 16.434%; height: 1.01%;" href="section24.html" target="_self" ></a>
+    <a style="position: absolute; top: 10.49%; left: 42.58%; width: 17.832%; height: 1.243%;" href="section25.html" target="_self" ></a>
+    <a style="position: absolute; top: 12.937%; left: 49.029%; width: 16.317%; height: 2.098%;" href="section26.html" target="_self" ></a>
+    <a style="position: absolute; top: 15.268%; left: 36.208%; width: 16.2%; height: 1.243%;" href="section27.html" target="_self" ></a>
+    <a style="position: absolute; top: 16.9%; left: 49.029%; width: 16.2%; height: 1.787%;" href="section28.html" target="_self" ></a>
+    <a style="position: absolute; top: 19.347%; left: 36.131%; width: 16.317%; height: 1.01%;" href="section29.html" target="_self" ></a>
+    <a style="position: absolute; top: 20.746%; left: 48.951%; width: 16.317%; height: 1.166%;" href="section30.html" target="_self" ></a>
+    <a style="position: absolute; top: 21.678%; left: 36.208%; width: 16.084%; height: 1.865%;" href="section31.html" target="_self" ></a>
+    <a style="position: absolute; top: 23.776%; left: 49.029%; width: 16.084%; height: 1.166%;" href="section32.html" target="_self" ></a>
+    <a style="position: absolute; top: 25.641%; left: 36.131%; width: 16.317%; height: 1.01%;" href="section33.html" target="_self" ></a>
+    <a style="position: absolute; top: 26.923%; left: 49.029%; width: 16.317%; height: 1.166%;" href="section34.html" target="_self" ></a>
+    <a style="position: absolute; top: 27.972%; left: 36.053%; width: 16.434%; height: 1.943%;" href="section35.html" target="_self" ></a> 
+    <a style="position: absolute; top: 30.186%; left: 49.029%; width: 16.2%; height: 1.088%;" href="section36.html" target="_self" ></a>
+    <a style="position: absolute; top: 31.702%; left: 36.053%; width: 16.434%; height: 1.166%;" href="section37.html" target="_self" ></a>
+    <a style="position: absolute; top: 32.634%; left: 49.951%; width: 16.317%; height: 1.865%;" href="section38.html" target="_self" ></a>
+    <a style="position: absolute; top: 34.848%; left: 36.053%; width: 16.434%; height: 1.088%;" href="section39.html" target="_self" ></a>
+    <a style="position: absolute; top: 36.364%; left: 49.951%; width: 16.434%; height: 1.088%;" href="section40.html" target="_self" ></a>
+    <a style="position: absolute; top: 37.296%; left: 36.131%; width: 16.084%; height: 1.943%;" href="section41.html" target="_self" ></a>
+    <a style="position: absolute; top: 39.277%; left: 48.873%; width: 16.434%; height: 1.166%;" href="section42.html" target="_self" ></a>
+    <a style="position: absolute; top: 40.909%; left: 35.975%; width: 16.434%; height: 1.166%;" href="section43.html" target="_self" ></a>
+    <a style="position: absolute; top: 44.172%; left: 35.975%; width: 16.317%; height: 1.01%;" href="section44.html" target="_self" ></a>
+    <a style="position: absolute; top: 53.846%; left: 35.975%; width: 16.317%; height: 1.787%;" href="section45.html" target="_self" ></a>
+    <a style="position: absolute; top: 55.128%; left: 48.951%; width: 16.434%; height: 2.098%;" href="section46.html" target="_self" ></a>
+    <a style="position: absolute; top: 57.576%; left: 35.897%; width: 16.55%; height: 1.088%;" href="section47.html" target="_self" ></a>
+    <a style="position: absolute; top: 58.858%; left: 48.873%; width: 16.317%; height: 1.943%;" href="section48.html" target="_self" ></a>
+    <a style="position: absolute; top: 61.189%; left: 35.975%; width: 16.317%; height: 1.166%;" href="section49.html" target="_self" ></a>
+    <a style="position: absolute; top: 62.704%; left: 49.029%; width: 16.2%; height: 1.943%;" href="section50.html" target="_self" ></a>
+    <a style="position: absolute; top: 63.52%; left: 15.462%; width: 16.55%; height: 1.088%;" href="sectionOP36.html" target="_self" ></a>
+    <a style="position: absolute; top: 13.054%; left: 15.851%; width: 16.2%; height: 1.399%;" href="sectionOP37.html" target="_self" ></a>
+    <a style="position: absolute; top: 71.562%; left: 48.873%; width: 16.317%; height: 1.243%;" href="sectionFF1.html" target="_self" ></a>
+    <a style="position: absolute; top: 73.31%; left: 35.82%; width: 16.667%; height: 1.01%;" href="sectionFF2.html" target="_self" ></a>
+    <a style="position: absolute; top: 74.825%; left: 48.873%; width: 16.434%; height: 1.088%;" href="sectionFF3.html" target="_self" ></a>
+    <a style="position: absolute; top: 76.457%; left: 35.82%; width: 16.434%; height: 1.088%;" href="sectionFF4.html" target="_self" ></a>
+    <a style="position: absolute; top: 77.972%; left: 48.873%; width: 16.434%; height: 1.01%;" href="sectionFF5.html" target="_self" ></a>
+    <a style="position: absolute; top: 79.487%; left: 35.82%; width: 16.55%; height: 1.166%;" href="sectionFF6.html" target="_self" ></a>
   </div>
 </div>
