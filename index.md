@@ -4,7 +4,9 @@ This site is dedicated to documenting the build progress on my (extremely) slow 
 knows me already knows...  I'm planning on finishing construction on Thursday.  (I just don't know which Thursday ;) )
 
 ## Build Log
-Click on the plans section in the image below to go to the build log entries for that section.
+Click on the plans section in the image below to go to the build log entries for that section.  Or navigate to the 
+<a href="blog.html">blog</a> or <a href="plans_section_build_log.html">build log by plans section</a> page for an 
+alternate log view.
 
 <div style="position: relative;">
   <img src="log/KitSummary.png" alt="Kit Summary">
