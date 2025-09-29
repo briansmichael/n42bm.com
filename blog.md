@@ -1,7 +1,7 @@
 # Blog
 
 <ul>
-  <li>28-Sep-2025 - <a href="blog/2025/September/28/28-Sep-2025.md">Match and Final Drilling the Forward Fuselage Side Skins</a></li>
+  <li>28-Sep-2025 - <a href="blog/2025/September/28/28-Sep-2025.html">Match and Final Drilling the Forward Fuselage Side Skins</a></li>
   <li>05-Feb-2011 - <a href="blog/2011/February/05/05-Feb-2011.html">Deburring and Dimpling Elevator Parts</a></li>
   <li>04-Feb-2011 - <a href="blog/2011/February/04/04-Feb-2011.html">Trim Cable Anchor Brackets</a></li>
   <li>03-Feb-2011 - <a href="blog/2011/February/03/03-Feb-2011.html">Final Drilling Elevator Skins</a></li>
