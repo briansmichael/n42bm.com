@@ -261,7 +261,11 @@ Fuselage
 	<li>Mid Fuse Ribs &amp; Bottom Skins</li>
 	<li>Firewall</li>
 	<li>Fwd Fuse Ribs, Bhds, &amp; Bottom Skin</li>
-	<li>Fuse Side Skins</li>
+	<li>Fuse Side Skins <span style="color: #008000;"><span style="color: #ffff00;">(in progress)</span> - <span style="color: #000000;">Started <a href="blog/2025/September/28/28-Sep-2025.html" target="_self">09/28/2025</a> - 3 hours</span></span>
+<ol>
+        <li><a href="blog/2025/September/28/28-Sep-2025.html">Match and Final Drilling the Forward Fuselage Side Skins</a></li>
+</ol>
+</li>
 	<li>Step Installation</li>
 	<li>Upper Forward Fuselage Assembly</li>
 	<li>Tailcone Attachment</li>
