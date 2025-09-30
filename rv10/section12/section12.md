@@ -1,1 +1,0 @@
-# Empennage Fairings
