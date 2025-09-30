@@ -1,6 +1,7 @@
 # Blog
 
 <ul>2025
+  <li>29-Sep-2025 - <a href="blog/2025/September/29/29-Sep-2025.html">Match and Final Drilling the Forward Fuselage Side Skins (part 2)</a></li>
   <li>28-Sep-2025 - <a href="blog/2025/September/28/28-Sep-2025.html">Match and Final Drilling the Forward Fuselage Side Skins</a></li>
 </ul>
 <ul>2023
